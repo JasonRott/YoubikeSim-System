@@ -1,4 +1,10 @@
-# 資料夾整理計畫（待 Pareto 跑完一次執行）
+# 資料夾整理計畫（✅ 已執行完成 2026-06，commit 0658147）
+
+> 狀態：全部完成並推上 **https://github.com/JasonRott/YoubikeSim-System**（Public，181 檔 48MB）。
+> 搬移、14 處路徑修正、簡報去嵌套、最終任務結果改名、.gitignore（含 .claude）、results/ 精選、冒煙測試皆完成。
+> 以下為當初計畫，保留作紀錄。
+
+
 
 > 原則：不動 `report/`（Pareto 正在寫）、不動相對路徑前不搬。執行＝搬檔 + 同步改所有相依路徑。
 

@@ -1,0 +1,34 @@
+{
+  "excluded_station_ids": {
+    "500105088": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料；週間 OD 中僅有少量 origin count。",
+    "500108127": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。",
+    "500108186": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。",
+    "500110108": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。"
+  },
+  "incomplete_period_station_count": 0,
+  "lambda_unit": "arrivals_per_hour",
+  "max_lambda_rent_hr": 68.75,
+  "max_lambda_return_hr": 74.39,
+  "missing_hours_station_count": 0,
+  "output_granularity": "1hr",
+  "source_granularity": "2hr",
+  "source_row_count": 20868,
+  "station_count_in_rate_file": 1739,
+  "station_count_in_static_file": 1739,
+  "stations_in_rate_not_in_static": [],
+  "stations_in_static_not_in_rate": [],
+  "time_periods": [
+    "00:00-02:00",
+    "02:00-04:00",
+    "04:00-06:00",
+    "06:00-08:00",
+    "08:00-10:00",
+    "10:00-12:00",
+    "12:00-14:00",
+    "14:00-16:00",
+    "16:00-18:00",
+    "18:00-20:00",
+    "20:00-22:00",
+    "22:00-24:00"
+  ]
+}

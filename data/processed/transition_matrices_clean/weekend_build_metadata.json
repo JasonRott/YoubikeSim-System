@@ -1,0 +1,12 @@
+{
+  "cross_district_ratio_excluding_self": 0.16462876347416677,
+  "cross_district_transactions": 42519,
+  "district_count_in_od": 13,
+  "missing_static_station_id_count": 0,
+  "out_of_district_key": "__OUT_OF_DISTRICT__",
+  "same_district_moving_transactions": 215753,
+  "self_station_ratio": 0.22465987007216878,
+  "self_station_transactions": 74836,
+  "station_count_in_od": 1219,
+  "total_transactions": 333108
+}

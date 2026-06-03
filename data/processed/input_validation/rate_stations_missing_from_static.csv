@@ -1,0 +1,5 @@
+﻿station_id,rate_period_count,avg_lambda_rent_hr,max_lambda_rent_hr,avg_lambda_return_hr,max_lambda_return_hr,weekday_origin_count,weekday_destination_count,weekend_origin_count,weekend_destination_count,observed_names,observed_districts
+500105088,12,1.2475,3.03,1.2258333333333333,2.39,43,0,0,0,樟新街8巷,文山區
+500108127,12,1.3216666666666665,2.48,1.3741666666666665,3.17,0,0,0,0,,
+500108186,12,1.1983333333333335,4.01,1.1325,4.55,0,0,0,0,,
+500110108,12,5.199166666666667,16.84,3.7391666666666663,9.5,0,0,0,0,,

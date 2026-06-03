@@ -1,0 +1,18 @@
+{
+  "canvas_height": 9202,
+  "canvas_width": 8000,
+  "latitude_range": [
+    24.97619,
+    25.14582
+  ],
+  "longitude_range": [
+    121.46228,
+    121.62306
+  ],
+  "meters_height": 18750.900200000167,
+  "meters_width": 16214.015202424736,
+  "padding": 160,
+  "projection": "local_equirectangular",
+  "scale_px_per_meter": 0.47366429006748983,
+  "target_width": 8000
+}

@@ -1,0 +1,11 @@
+{
+  "district_aliases": {
+    "臺大專區": "臺大公館校區"
+  },
+  "excluded_station_ids": {
+    "500105088": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料；週間 OD 中僅有少量 origin count。",
+    "500108127": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。",
+    "500108186": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。",
+    "500110108": "rate 檔有完整 lambda，但 static 檔缺少座標與站點資料，且目前 OD 中未觀察到。"
+  }
+}

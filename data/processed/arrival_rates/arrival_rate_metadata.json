@@ -1,0 +1,33 @@
+{
+  "incomplete_period_station_count": 0,
+  "lambda_unit": "arrivals_per_hour",
+  "max_lambda_rent_hr": 57.15,
+  "max_lambda_return_hr": 72.94,
+  "missing_hours_station_count": 0,
+  "output_granularity": "1hr",
+  "source_granularity": "2hr",
+  "source_row_count": 20916,
+  "station_count_in_rate_file": 1743,
+  "station_count_in_static_file": 1739,
+  "stations_in_rate_not_in_static": [
+    "500105088",
+    "500108127",
+    "500108186",
+    "500110108"
+  ],
+  "stations_in_static_not_in_rate": [],
+  "time_periods": [
+    "00:00-02:00",
+    "02:00-04:00",
+    "04:00-06:00",
+    "06:00-08:00",
+    "08:00-10:00",
+    "10:00-12:00",
+    "12:00-14:00",
+    "14:00-16:00",
+    "16:00-18:00",
+    "18:00-20:00",
+    "20:00-22:00",
+    "22:00-24:00"
+  ]
+}

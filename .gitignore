@@ -1,0 +1,26 @@
+# --- Large simulation outputs (65 GB; events.csv files exceed GitHub's 100 MB limit) ---
+# Regenerable by re-running scenarios. Curated key artifacts are kept in results/.
+report/
+
+# --- Oversized raw source data (>100 MB GitHub hard limit) ---
+data/raw/youbike_dynamic_2026-04-28.csv
+
+# --- Proposal PDF (65 MB; kept locally, not pushed) ---
+docs/Simulation Final Project Proposal.pdf
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local tooling config
+.claude/

@@ -1,0 +1,6 @@
+simpy>=4.1
+
+# 行政區邊界前處理（scripts/build_district_boundaries.py）：
+# 讀取 TWD97 Shapefile 並轉成 WGS84 再投影到畫布座標。
+pyshp>=2.3
+pyproj>=3.6
